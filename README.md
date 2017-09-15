@@ -5,4 +5,11 @@ http://localhost:8080/
 
 Change default port value in application.properties
 
-This Project take Connection Json and SOQL
+Below rest api are available.
+
+
+1. getSobjects
+
+2. createSobjects
+
+3. updateSobjects
